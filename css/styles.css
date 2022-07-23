@@ -1,8 +1,8 @@
 :root{
     --blanco: #ffffff;
     --oscuro: #212121;
-    --primario: #FFC107;
-    --secundario: #0097A7;
+    --primario: hsl(63, 100%, 49%);
+    --secundario: #2d00a7;
     --gris: #757575;
     --grisClaro: #DFE9F3;
 }
